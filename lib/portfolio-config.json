@@ -1,0 +1,52 @@
+{
+  "profile": {
+    "name": "Your Name",
+    "role": "Data Analyst",
+    "tagline": "Turning raw data into clear, actionable insight.",
+    "email": "hello@example.com",
+    "phone": "+1 (555) 000-0000",
+    "linkedin": "https://www.linkedin.com/in/yourprofile",
+    "github": "https://github.com/yourusername",
+    "photoUrl": "/ando-headshot.jpeg",
+    "resumeUrl": "/resume-placeholder.pdf",
+    "openToWork": true,
+    "availability": "Available for contract & full-time roles"
+  },
+  "technicalSkills": [
+    { "name": "SQL", "description": "Data cleaning, joins, CTEs, query optimisation" },
+    { "name": "Power BI", "description": "DAX, interactive dashboards, data modelling" },
+    { "name": "Tableau", "description": "Advanced visualisations, calculated fields, parameters" },
+    { "name": "Python", "description": "Pandas, NumPy, Matplotlib, data automation" },
+    { "name": "Excel", "description": "Pivot tables, Power Query, formulas, data validation" }
+  ],
+  "tools": ["Microsoft SQL Server", "Power BI", "Tableau", "VS Code", "Jupyter Notebook"],
+  "certifications": [
+    {
+      "name": "Certification Name",
+      "organisation": "Issuing Organisation",
+      "date": "2024",
+      "credentialUrl": "#"
+    }
+  ],
+  "projects": [
+    {
+      "slug": "my-first-project",
+      "title": "My First Project",
+      "company": "Company Name",
+      "industry": "Industry",
+      "role": "Data Analyst",
+      "duration": "4 weeks",
+      "summary": "A short summary of the project and its business goal.",
+      "tools": ["SQL", "Power BI"],
+      "preview": "/placeholder.svg",
+      "challenge": ["Describe the business problem here."],
+      "whatIBuilt": ["Describe what you built."],
+      "outcome": ["Describe the results."],
+      "keyDeliverables": [],
+      "impact": [],
+      "githubUrl": null,
+      "liveUrl": null,
+      "gallery": []
+    }
+  ]
+}
