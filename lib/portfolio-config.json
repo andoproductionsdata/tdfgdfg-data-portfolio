@@ -1,48 +1,138 @@
 {
   "profile": {
-    "name": "Your Name",
+    "name": "tdfgdfg",
     "role": "Data Analyst",
-    "tagline": "Turning raw data into clear, actionable insight.",
-    "email": "hello@example.com",
-    "phone": "+1 (555) 000-0000",
-    "linkedin": "https://www.linkedin.com/in/yourprofile",
-    "github": "https://github.com/yourusername",
+    "tagline": "tdfgREGDFGDFG",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "linkedin": "",
+    "github": "",
     "photoUrl": "/ando-headshot.jpeg",
     "resumeUrl": "/resume-placeholder.pdf",
     "openToWork": true,
-    "availability": "Available for contract & full-time roles"
+    "availability": ""
+  },
+  "about": {
+    "bio": "",
+    "focus": "",
+    "coreStack": ""
   },
   "technicalSkills": [
-    { "name": "SQL", "description": "Data cleaning, joins, CTEs, query optimisation" },
-    { "name": "Power BI", "description": "DAX, interactive dashboards, data modelling" },
-    { "name": "Tableau", "description": "Advanced visualisations, calculated fields, parameters" },
-    { "name": "Python", "description": "Pandas, NumPy, Matplotlib, data automation" },
-    { "name": "Excel", "description": "Pivot tables, Power Query, formulas, data validation" }
+    {
+      "name": "SQL",
+      "description": "Data cleaning, joins, CTEs, query optimisation",
+      "logo": "/logo-sql.png"
+    },
+    {
+      "name": "Power BI",
+      "description": "DAX, interactive dashboards, data modelling",
+      "logo": "/logo-powerbi.png"
+    },
+    {
+      "name": "Tableau",
+      "description": "Advanced visualisations, calculated fields, parameters",
+      "logo": "/logo-tableau.png"
+    },
+    {
+      "name": "Python",
+      "description": "Pandas, NumPy, Matplotlib, data automation",
+      "logo": "/logo-python.png"
+    },
+    {
+      "name": "Excel",
+      "description": "Pivot tables, Power Query, formulas, data validation",
+      "logo": "/logo-excel.png"
+    },
+    {
+      "name": "Claude Code",
+      "description": "AI-assisted development, prompt engineering, automation workflows",
+      "logo": "/logo-claude.png"
+    },
+    {
+      "name": "Git",
+      "description": "Version control, branching strategies, collaborative workflows",
+      "logo": "/logo-git.png"
+    },
+    {
+      "name": "Power Automate",
+      "description": "Workflow automation, scheduled flows, data integration",
+      "logo": "/logo-power-automate.png"
+    },
+    {
+      "name": "Copilot",
+      "description": "AI-powered productivity, code assistance, intelligent insights",
+      "logo": "/logo-copilot.png"
+    },
+    {
+      "name": "Redshift",
+      "description": "Cloud data warehousing, large-scale analytics, SQL querying",
+      "logo": "/logo-redshift.png"
+    },
+    {
+      "name": "Salesforce",
+      "description": "CRM data analysis, reporting, pipeline and sales insights",
+      "logo": "/logo-salesforce.png"
+    },
+    {
+      "name": "Jira",
+      "description": "Project tracking, agile workflows, sprint reporting",
+      "logo": "/logo-jira.png"
+    }
   ],
-  "tools": ["Microsoft SQL Server", "Power BI", "Tableau", "VS Code", "Jupyter Notebook"],
+  "tools": [],
+  "workExperience": [
+    {
+      "title": "tDZFGDFGD",
+      "company": "tFGDFGDF",
+      "location": "",
+      "duration": "",
+      "type": "Full-time",
+      "responsibilities": []
+    }
+  ],
   "certifications": [
     {
-      "name": "Certification Name",
-      "organisation": "Issuing Organisation",
-      "date": "2024",
-      "credentialUrl": "#"
+      "name": "tFGHFGH",
+      "organisation": "tFGHFGH",
+      "date": "tSFSDF",
+      "credentialUrl": "FDGDFGDF"
     }
   ],
   "projects": [
     {
-      "slug": "my-first-project",
-      "title": "My First Project",
-      "company": "Company Name",
-      "industry": "Industry",
+      "slug": "tdgfhdfgdfg",
+      "title": "tDGFHDFGDFG",
+      "company": "",
+      "industry": "",
       "role": "Data Analyst",
-      "duration": "4 weeks",
-      "summary": "A short summary of the project and its business goal.",
-      "tools": ["SQL", "Power BI"],
-      "preview": "/placeholder.svg",
-      "challenge": ["Describe the business problem here."],
-      "whatIBuilt": ["Describe what you built."],
-      "outcome": ["Describe the results."],
+      "duration": "",
+      "summary": "t",
+      "preview": "/project-tdgfhdfgdfg-thumb.png",
+      "challenge": [
+        "t"
+      ],
+      "requirements": [],
+      "customSections": [],
       "keyDeliverables": [],
+      "kpiTargets": [],
+      "whatIBuilt": [],
+      "dashboardTitle": "",
+      "dashboardDescription": "",
+      "dashboardSlides": [
+        {
+          "title": "t",
+          "description": [
+            "t"
+          ],
+          "image": "/project-tdgfhdfgdfg-slide-1.png"
+        }
+      ],
+      "buildImage": "",
+      "sqlSnippet": "",
+      "sqlDescription": "",
+      "outcome": [],
+      "outcomeImage": "/project-tdgfhdfgdfg-outcome.png",
       "impact": [],
       "githubUrl": null,
       "liveUrl": null,
